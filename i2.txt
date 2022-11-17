@@ -1,0 +1,3 @@
+*stopped,reason="end-stepping-range",frame={addr="0x0000555555560f9d",func="main",args=[{name="argc",value="2"},{name="argv",value="0x7fffffffdcd8"}],file="../test.cpp",fullname="/home/psammandam/disk/projects/wxwidgets/grammer/test.cpp",line="59",arch="i386:x86-64"},thread-id="1",stopped-threads="all",core="3"
+(gdb)
+
